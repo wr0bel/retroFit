@@ -1,7 +1,6 @@
 {
     "pytania":[
   {
-  }
     "tresc": "Stolicą Polski było",
     "odpa": "Wilkowyje",
     "odpb": "Gniezno",
@@ -26,6 +25,6 @@
     "odpc": "samorządowe",
     "poprawna": 2
 
-  }
+  },
 ]
 }
