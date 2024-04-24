@@ -1,5 +1,6 @@
 {
-    "pytania":[
+    "pytania":
+    [
   {
     "tresc": "Stolicą Polski było",
     "odpa": "Wilkowyje",
@@ -25,6 +26,6 @@
     "odpc": "samorządowe",
     "poprawna": 2
 
-  },
+  }
 ]
 }
