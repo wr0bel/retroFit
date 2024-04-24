@@ -1,31 +1,27 @@
 {
-    "pytania":
-    [
-  {
-    "tresc": "Stolicą Polski było",
-    "odpa": "Wilkowyje",
-    "odpb": "Gniezno",
-    "odpc": "Kowno",
-    "poprawna": 1
-
-  },
-  {
-
-    "tresc": "Prezydentem Polski był",
-    "odpa": "Jarosław Kaczyński",
-    "odpb": "Lecha Wałęsa",
-    "odpc": "Paweł Kozioł",
-    "poprawna": 1
-
-  },
-  {
-
-    "tresc": "Ostatnie wybory to wybory",
-    "odpa": "parlamentarne",
-    "odpb": "prezydenckie",
-    "odpc": "samorządowe",
-    "poprawna": 2
-
-  }
+  "pytania":[
+{
+"tresc":"Stolicą Polski było",
+"odpa":"Wilkowyje",
+"odpb":"Gniezno",
+"odpc":"Kowno",
+"poprawna":1
+},
+{
+"tresc":"Prezydentem Polski był",
+"odpa":"Jarosław Kaczyński",
+"odpb":"Lecha Wałęsa",
+"odpc":"Paweł Kozioł",
+"poprawna":1
+},
+{
+"tresc":"Ostatnie wybory to wybory",
+"odpa":"parlamentarne",
+"odpb":"prezydenckie",
+"odpc":"samorządowe",
+"poprawna":0
+}
 ]
+ 
+ 
 }
